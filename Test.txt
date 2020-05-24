@@ -1,1 +1,2 @@
-Print("Add first file to learn git")
+Print("Add first file to learn git");
+Println("Secind version of this file");
